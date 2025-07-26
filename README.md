@@ -3,10 +3,6 @@
 ¡Bienvenido a mi proyecto de presentación personal web!  
 Este sitio web estático fue creado como parte de una tarea universitaria para mostrar quién soy, mis habilidades, pasatiempos y redes sociales, usando HTML semántico, CSS estilizado y un diseño adaptable a distintos dispositivos.
 
-## 📸 Vista previa
-
-![Vista previa](https://github.com/Aisaac2205/MyProfile/raw/main/recursos/preview.png)
-
 ## 🧠 Tecnologías utilizadas
 
 - HTML5
