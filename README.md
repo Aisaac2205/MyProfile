@@ -12,15 +12,15 @@ Este sitio web estático fue creado como parte de una tarea universitaria para m
 - Animaciones CSS
 
 ## 📝 Estructura del proyecto
-/mi-presentacion
-├── index.html
-├── style.css
-├── perfil.jpg
-├── proyectos/
-│ ├── proyecto1.jpg
-│ ├── proyecto2.jpg
-│ └── proyecto3.jpg
-└── README.md
+- /mi-presentacion
+- ├── index.html
+- ├── style.css
+- ├── perfil.jpg
+- ├── proyectos/
+- │ ├── proyecto1.jpg
+- │ ├── proyecto2.jpg
+- │ └── proyecto3.jpg
+- └── README.md
 
 ## 🚀 Funcionalidades
 
