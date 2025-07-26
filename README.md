@@ -5,7 +5,7 @@ Este sitio web estático fue creado como parte de una tarea universitaria para m
 
 ## 📸 Vista previa
 
-![Captura de pantalla](recursos/preview.png)
+![Vista previa](https://github.com/Aisaac2205/MyProfile/raw/main/recursos/preview.png)
 
 ## 🧠 Tecnologías utilizadas
 
